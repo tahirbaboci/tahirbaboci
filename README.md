@@ -1,3 +1,5 @@
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/autoscout24/autoscout24-tech-stack)
+
 ### Hi there 👋
 
 <!--
