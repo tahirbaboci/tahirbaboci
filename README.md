@@ -2,17 +2,18 @@
 
 ### Hi there 👋
 
-<!--
-**iribaboci/iribaboci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Tahir, Senior Software Engineer
+<br/>
+
+- 🔭 I’m currently working on payment industry (Visa), ready terminal solutions
+- 🌱 I’m currently learning Spring ecosystem with kotlin/java and android development
+- 💬 Ask me about anything
+- 📫 How to reach me: tahirbaboci96@gmail.com
+
+<a href="https://github.com/tahirbaboci">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirbaboci&show_icons=true&theme=darcula&show_icons=true&include_all_commits=true&count_private=true" alt="Tahir Baboci" />
+</a>
