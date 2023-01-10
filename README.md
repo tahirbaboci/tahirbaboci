@@ -9,7 +9,7 @@
 I'm Tahir, Senior Software Engineer
 <br/>
 
-- 🔭 I’m currently working on payment industry (Visa), ready terminal solutions
+- 🔭 I’m currently working on payment industry (Visa), Card Present
 - 🌱 I’m currently learning Spring ecosystem with kotlin/java and android development
 - 💬 Ask me about anything
 - 📫 How to reach me: tahirbaboci96@gmail.com
